@@ -35,6 +35,7 @@
     ]
   },
   "dependencies": {
+    "react-scripts": "^5.0.1",
     "assert": "^2.1.0",
     "autoprefixer": "^9.7.2",
     "blob-stream": "^0.1.3",

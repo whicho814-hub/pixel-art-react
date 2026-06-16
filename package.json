@@ -85,10 +85,6 @@
     "util": "^0.12.5",
     "whatwg-fetch": "^2.0.4"
   },
-  "engines": {
-    "node": "20.x.x",
-    "npm": "8.x.x"
-  },
   "devDependencies": {
     "@babel/core": "^7.5.4",
     "@babel/preset-env": "^7.5.4",
